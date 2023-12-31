@@ -1,16 +1,3 @@
-<h1 align=center><b>HTML5-Final-Project</b></h1>
-Coursera HTML5 Final Project
-
-This is the code that I have written to pass the Final Project Exam for the Coursera HTML5 Course
-
-### Attachments:
-- finalproject.html
-- ProjectDescription.png
-The ProjectDesciption is what you need to replicate using your code except the highlighted yellow content
-
-<h2 style="color:red",align=center><b>Source Code</b></h2>
-
-```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -20,7 +7,7 @@ The ProjectDesciption is what you need to replicate using your code except the h
 </head>
 <body>
 <header>
-    <h1>moooooooooooooods</h1>
+    <h1>Priyanshu Singh</h1>
     <nav>
         <a href="www.google.co.in">One</a>
         <a href="https://www.youtube.com/">Two</a>
@@ -52,7 +39,7 @@ The ProjectDesciption is what you need to replicate using your code except the h
 <section>
     <h2>More About Me</h2>
     <details>
-        <summary>My Childhood</summary>I grew up in casablanca .I lived in a small house and I really miss the fun which I had back then.
+        <summary>My Childhood</summary>I grew up in Mumbai.I lived in a small house and I really miss the fun which I had back then.
     </details>
 </section>
 <footer>
@@ -64,8 +51,3 @@ The ProjectDesciption is what you need to replicate using your code except the h
     
 </body>
 </html>
-```
-
-<h2 style="color:red",align=center><b>Output</b></h2>
-
-![Image](Final-Project-HTML-5/ProjectDescription.png)
